@@ -1,2 +1,2 @@
-# UDMS
-Unmanned Decision-Making System
+# ADMS
+Autonomous Decision-Making System
