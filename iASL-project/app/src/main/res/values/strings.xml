@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">iASL Project</string>
+    <string name="marker_caption">iASL Center</string>
+    <string name="marker_arrive">Goal point</string>
+    <string name="marker_car">SELECTED CAR</string>
+</resources>
